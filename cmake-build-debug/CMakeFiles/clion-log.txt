@@ -1,0 +1,9 @@
+D:\EnglishSoftware\c++Environment\cmake-3.18.3\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\untitled
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 3.4.11 in D:/EnglishSoftware/c++Environment/mingwOpencv3411/install/x64/mingw/lib
+-- You might need to add D:/EnglishSoftware/c++Environment/mingwOpencv3411/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/untitled/cmake-build-debug

@@ -1,0 +1,3 @@
+D:\EnglishSoftware\c++Environment\cmake-3.18.3\bin\cmake.exe -E rm -f CMakeFiles\RGB2Grey.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\RGB2Grey.dir/objects.a @CMakeFiles\RGB2Grey.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -std=c++11 -g -Wl,--whole-archive CMakeFiles\RGB2Grey.dir/objects.a -Wl,--no-whole-archive -o RGB2Grey.exe -Wl,--out-implib,libRGB2Grey.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RGB2Grey.dir\linklibs.rsp
